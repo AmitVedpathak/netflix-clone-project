@@ -17,11 +17,11 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 80dvh;
+    height: 75vh;
     position: relative;
 }
 .main .box{
-    height: 80dvh;
+    height: 75vh;
     width: 100%;
     opacity: 0.44;
     background-color: black;
@@ -79,12 +79,13 @@ nav button{
     background-color: rgb(77, 77, 77);
 }
 .main input{
-    padding:7px 141px 8px 14px;
+    padding: 7px 0px 8px 14px;
     font-size: 12px;
     border-radius: 4px;
     background-color: rgba(23,23,23,0.7);
     border: 1px solid rgba(226, 223, 223, 0.5);
     color: white;
+    width: 300px;
 }
 .hero-btns{
     display: flex;
