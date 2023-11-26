@@ -20,4 +20,4 @@ This project is a Netflix clone built using HTML and CSS only. It replicates the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/AmitVedpathak/netflix-clone-project.git
